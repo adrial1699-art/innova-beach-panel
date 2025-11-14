@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { QRCodeCanvas } from "qrcode.react";
+import QRCode from "react-qr-code";                                                                                                                                                          
 import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
 
